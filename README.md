@@ -16,4 +16,4 @@ N/A
 
 ![screenshot of website](./assets/password-gen-ss.png)
 
-- Link to webpage
+- Link to webpage https://averynewhart.github.io/password-gen/
