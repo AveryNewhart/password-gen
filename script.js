@@ -32,7 +32,7 @@ var generateBtn = document.querySelector("#generate");
 function generatePassword() {
   console.log("Yo");
 
-  userInput = window.prompt("Choose length of password of 8-128 characters."); // prompt that will pop up once you click generate password.
+  userInput = window.prompt("Please select a number between 8 and 128 for the password length."); // prompt that will pop up once you click generate password.
 
    if (!userInput) {
     return "Password Generator cancelled. Please try again.";
